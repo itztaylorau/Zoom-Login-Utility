@@ -1,6 +1,6 @@
 # Semi-Auto Zoom Meeting Attend Utility
 This utlilty aims to provide a faster way for you to enter regular zoom meeting rooms. For instance, your lectures or classes.
-This utility is 100% run in your pc and do not reuqire any cloud functions or computing.
+It is 100% run in your pc and do not reuqire any cloud functions or computing.
 ## Basic Information
 |  |  |
 |--|--|
